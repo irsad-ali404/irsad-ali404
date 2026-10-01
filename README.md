@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Mr Error
 
-<!--
-**irsad-ali404/irsad-ali404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity & Ethical Hacking Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about **cybersecurity, ethical hacking, and understanding how systems and networks can be secured**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on developing practical skills in security, networking, Linux, and programming.
+
+---
+
+## 🛡️ Focus Areas
+
+- 🔐 Cybersecurity
+- 🕵️ Ethical Hacking
+- 🌐 Computer Networking
+- 🐧 Linux & Kali Linux
+- 🔎 Vulnerability Research
+- 🐍 Python for Security
+- 🧪 Security Labs & CTFs
+
+---
+
+## 🧰 Currently Exploring
+
+```text
+Linux & Kali Linux
+Networking Fundamentals
+Python
+Web Security
+Security Tools
+CTF Challenges
+Ethical Hacking Methodologies
